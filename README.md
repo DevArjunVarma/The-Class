@@ -1,1 +1,1 @@
-# The-Class
+# Box Class
